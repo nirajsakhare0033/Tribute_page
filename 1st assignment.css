@@ -1,0 +1,42 @@
+body{
+
+    img src:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Casey_Stoner_2011_Brno_2.jpg/220px-Casey_Stoner_2011_Brno_2.jpg";
+
+    background-image: url('https://www.thehindubusinessline.com/news/sports/1wl1lh/article30961246.ece/ALTERNATES/LANDSCAPE_1200/MotoGPTwitter');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+summary{
+    font-family: cursive; color: red;
+}
+
+.first, .second, .third, .fourth, .fifth, .six, .seven, .eight{
+    font-family: cursive;
+    color: red;
+}
+
+ol{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red
+
+}
+
+h2{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+
+}
+
+h1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+
+  
